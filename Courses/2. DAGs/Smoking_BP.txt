@@ -1,0 +1,40 @@
+dag {
+bb="0,0,1,1"
+"Physical activity" [pos="0.855,0.312"]
+Age [pos="0.265,0.585"]
+Alcohol [pos="0.106,0.150"]
+BMI [pos="0.623,0.095"]
+Cholesterol [pos="0.602,0.388"]
+Nutrition [pos="0.380,0.105"]
+SBP [outcome,pos="0.860,0.844"]
+SES [pos="0.488,0.617"]
+Sex [pos="0.312,0.279"]
+Smoking [exposure,pos="0.110,0.853"]
+"Physical activity" -> BMI
+"Physical activity" -> SBP
+Age -> Alcohol
+Age -> BMI
+Age -> Cholesterol
+Age -> SBP
+Age -> SES
+Age -> Smoking
+Alcohol -> Smoking
+BMI -> Cholesterol
+BMI -> SBP
+Cholesterol -> SBP
+Nutrition -> BMI
+Nutrition -> Cholesterol
+SES -> "Physical activity"
+SES -> Alcohol
+SES -> BMI
+SES -> Nutrition
+SES -> Smoking
+Sex -> Alcohol
+Sex -> BMI
+Sex -> Cholesterol
+Sex -> Nutrition
+Sex -> SBP
+Sex -> SES
+Sex -> Smoking
+Smoking -> SBP
+}

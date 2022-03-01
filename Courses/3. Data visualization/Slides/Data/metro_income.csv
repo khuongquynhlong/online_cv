@@ -1,0 +1,1375 @@
+Metro,Class,Year,Income
+"Akron, OH",Lower,1999,27587.96776
+"Albany-Schenectady-Troy, NY",Lower,1999,27322.45512
+"Albuquerque, NM",Lower,1999,26426.8719
+"Allentown-Bethlehem-Easton, PA-NJ",Lower,1999,29007.44579
+"Amarillo, TX",Lower,1999,27014.1596
+"Anchorage, AK",Lower,1999,27813.286
+"Ann Arbor, MI",Lower,1999,25528.92
+"Anniston-Oxford-Jacksonville, AL",Lower,1999,26245.19122
+"Atlanta-Sandy Springs-Roswell, GA",Lower,1999,26982.14571
+"Atlantic City-Hammonton, NJ",Lower,1999,27380.06059
+"Auburn-Opelika, AL",Lower,1999,21209.38847
+"Augusta-Richmond County, GA-SC",Lower,1999,25710.18556
+"Austin-Round Rock, TX",Lower,1999,26367.89894
+"Bakersfield, CA",Lower,1999,24879.82669
+"Baltimore-Columbia-Towson, MD",Lower,1999,26206.21778
+"Bangor, ME",Lower,1999,26146.58549
+"Barnstable Town, MA",Lower,1999,28838.1946
+"Baton Rouge, LA",Lower,1999,23810.93866
+"Beaumont-Port Arthur, TX",Lower,1999,24539.63937
+"Bellingham, WA",Lower,1999,27562.30292
+"Bend-Redmond, OR",Lower,1999,28953.01484
+"Binghamton, NY",Lower,1999,27816.48495
+"Birmingham-Hoover, AL",Lower,1999,25538.61452
+"Blacksburg-Christiansburg-Radford, VA",Lower,1999,25989.32426
+"Bloomington, IL",Lower,1999,28285.60694
+"Boise City, ID",Lower,1999,28917.50897
+"Boston-Cambridge-Newton, MA-NH",Lower,1999,25268.99941
+"Bremerton-Silverdale, WA",Lower,1999,28668.11316
+"Bridgeport-Stamford-Norwalk, CT",Lower,1999,25963.75709
+"Brownsville-Harlingen, TX",Lower,1999,23228.9744
+"Buffalo-Cheektowaga-Niagara Falls, NY",Lower,1999,26902.7825
+"Burlington, NC",Lower,1999,27844.22544
+"Burlington-South Burlington, VT",Lower,1999,27674.31493
+"Canton-Massillon, OH",Lower,1999,29270.80952
+"Cape Coral-Fort Myers, FL",Lower,1999,28835.8015
+"Champaign-Urbana, IL",Lower,1999,23849.13067
+"Charleston-North Charleston, SC",Lower,1999,25155.05827
+"Charlotte-Concord-Gastonia, NC-SC",Lower,1999,27437.22652
+"Chattanooga, TN-GA",Lower,1999,26654.07044
+"Chicago-Naperville-Elgin, IL-IN-WI",Lower,1999,25803.37017
+"Chico, CA",Lower,1999,25163.18995
+"Cincinnati, OH-KY-IN",Lower,1999,27629.62734
+"Clarksville, TN-KY",Lower,1999,27573.87774
+"Cleveland-Elyria, OH",Lower,1999,26801.83251
+"Colorado Springs, CO",Lower,1999,28884.88459
+"Columbia, MO",Lower,1999,25497.1503
+"Columbus, OH",Lower,1999,27243.55588
+"Corpus Christi, TX",Lower,1999,25045.58589
+"Dallas-Fort Worth-Arlington, TX",Lower,1999,27138.94297
+"Daphne-Fairhope-Foley, AL",Lower,1999,27225.85179
+"Dayton, OH",Lower,1999,26880.75616
+"Decatur, AL",Lower,1999,27023.39015
+"Decatur, IL",Lower,1999,26756.94957
+"Deltona-Daytona Beach-Ormond Beach, FL",Lower,1999,27490.46091
+"Denver-Aurora-Lakewood, CO",Lower,1999,27862.78422
+"Detroit-Warren-Dearborn, MI",Lower,1999,26158.50218
+"Dover, DE",Lower,1999,28039.01937
+"East Stroudsburg, PA",Lower,1999,29154.59738
+"Eau Claire, WI",Lower,1999,29005.1992
+"El Centro, CA",Lower,1999,24261.23326
+"Elkhart-Goshen, IN",Lower,1999,31173.76818
+"El Paso, TX",Lower,1999,24121.16331
+"Erie, PA",Lower,1999,27366.6299
+"Eugene, OR",Lower,1999,27470.4858
+"Fayetteville, NC",Lower,1999,27725.1318
+"Fayetteville-Springdale-Rogers, AR-MO",Lower,1999,27475.22318
+"Flagstaff, AZ",Lower,1999,24321.183
+"Fort Collins, CO",Lower,1999,28949.84031
+"Fort Wayne, IN",Lower,1999,28809.77037
+"Fresno, CA",Lower,1999,24523.76673
+"Gadsden, AL",Lower,1999,24638.02532
+"Gainesville, FL",Lower,1999,21672.03931
+"Gainesville, GA",Lower,1999,26254.88574
+"Glens Falls, NY",Lower,1999,29899.07305
+"Goldsboro, NC",Lower,1999,27807.86488
+"Grand Junction, CO",Lower,1999,29243.36207
+"Grand Rapids-Wyoming, MI",Lower,1999,28835.72824
+"Greensboro-High Point, NC",Lower,1999,26571.75248
+"Greenville, NC",Lower,1999,21988.41766
+"Greenville-Anderson-Mauldin, SC",Lower,1999,26144.43658
+"Gulfport-Biloxi-Pascagoula, MS",Lower,1999,25986.78463
+"Hanford-Corcoran, CA",Lower,1999,26533.43837
+"Harrisburg-Carlisle, PA",Lower,1999,28224.75368
+"Hartford-West Hartford-East Hartford, CT",Lower,1999,26892.59959
+"Hickory-Lenoir-Morganton, NC",Lower,1999,27757.63408
+"Hilton Head Island-Bluffton-Beaufort, SC",Lower,1999,26551.14247
+"Houma-Thibodaux, LA",Lower,1999,24498.15073
+"Houston-The Woodlands-Sugar Land, TX",Lower,1999,25807.20402
+"Huntsville, AL",Lower,1999,25985.83227
+"Indianapolis-Carmel-Anderson, IN",Lower,1999,28198.74697
+"Jackson, MI",Lower,1999,27073.74305
+"Jackson, TN",Lower,1999,25602.73999
+"Jacksonville, FL",Lower,1999,27459.4238
+"Janesville-Beloit, WI",Lower,1999,29901.36848
+"Johnstown, PA",Lower,1999,29477.30037
+"Joplin, MO",Lower,1999,27686.45139
+"Kalamazoo-Portage, MI",Lower,1999,27583.32807
+"Kankakee, IL",Lower,1999,28339.5495
+"Kansas City, MO-KS",Lower,1999,27892.8934
+"Knoxville, TN",Lower,1999,25481.64396
+"Lafayette, LA",Lower,1999,23844.17353
+"Lake Havasu City-Kingman, AZ",Lower,1999,27937.45889
+"Lakeland-Winter Haven, FL",Lower,1999,27864.518
+"Lancaster, PA",Lower,1999,29629.26258
+"Lansing-East Lansing, MI",Lower,1999,27197.45197
+"Laredo, TX",Lower,1999,23922.92624
+"Las Cruces, NM",Lower,1999,25031.93542
+"Las Vegas-Henderson-Paradise, NV",Lower,1999,28315.91147
+"Lebanon, PA",Lower,1999,30789.18631
+"Lewiston-Auburn, ME",Lower,1999,26228.586
+"Lincoln, NE",Lower,1999,27915.38371
+"Little Rock-North Little Rock-Conway, AR",Lower,1999,26766.44873
+"Los Angeles-Long Beach-Anaheim, CA",Lower,1999,24286.94694
+"Louisville/Jefferson County, KY-IN",Lower,1999,26705.66873
+"Lubbock, TX",Lower,1999,24693.70166
+"Lynchburg, VA",Lower,1999,26982.80503
+"Madera, CA",Lower,1999,26453.00071
+"Manchester-Nashua, NH",Lower,1999,30029.83919
+"Mansfield, OH",Lower,1999,27814.06742
+"McAllen-Edinburg-Mission, TX",Lower,1999,22279.44863
+"Medford, OR",Lower,1999,27915.11509
+"Memphis, TN-MS-AR",Lower,1999,24241.16047
+"Merced, CA",Lower,1999,25901.34099
+"Miami-Fort Lauderdale-West Palm Beach, FL",Lower,1999,25317.05688
+"Michigan City-La Porte, IN",Lower,1999,28917.50897
+"Midland, TX",Lower,1999,26697.53705
+"Milwaukee-Waukesha-West Allis, WI",Lower,1999,26987.29821
+"Minneapolis-St. Paul-Bloomington, MN-WI",Lower,1999,28449.85214
+"Mobile, AL",Lower,1999,23946.1003
+"Modesto, CA",Lower,1999,26415.39476
+"Monroe, LA",Lower,1999,23956.74718
+"Monroe, MI",Lower,1999,28253.9105
+"Montgomery, AL",Lower,1999,25297.05736
+"Morgantown, WV",Lower,1999,23187.02179
+"Muncie, IN",Lower,1999,26893.67405
+"Muskegon, MI",Lower,1999,28181.50684
+"Napa, CA",Lower,1999,28191.8851
+"Naples-Immokalee-Marco Island, FL",Lower,1999,28169.66341
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Lower,1999,26761.02762
+"New Haven-Milford, CT",Lower,1999,25604.44935
+"New Orleans-Metairie, LA",Lower,1999,23655.55772
+"New York-Newark-Jersey City, NY-NJ-PA",Lower,1999,23121.40674
+"Niles-Benton Harbor, MI",Lower,1999,26269.00018
+"North Port-Sarasota-Bradenton, FL",Lower,1999,28785.2044
+"Norwich-New London, CT",Lower,1999,27375.86045
+"Ocala, FL",Lower,1999,28136.57506
+"Ocean City, NJ",Lower,1999,27988.47111
+"Odessa, TX",Lower,1999,26309.09691
+"Ogden-Clearfield, UT",Lower,1999,31008.81482
+"Oklahoma City, OK",Lower,1999,27044.34204
+"Olympia-Tumwater, WA",Lower,1999,27907.93578
+"Omaha-Council Bluffs, NE-IA",Lower,1999,28988.81375
+"Orlando-Kissimmee-Sanford, FL",Lower,1999,28364.33524
+"Owensboro, KY",Lower,1999,26692.67758
+"Oxnard-Thousand Oaks-Ventura, CA",Lower,1999,28409.82867
+"Palm Bay-Melbourne-Titusville, FL",Lower,1999,28367.36325
+"Pensacola-Ferry Pass-Brent, FL",Lower,1999,26475.8329
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Lower,1999,25732.43167
+"Phoenix-Mesa-Scottsdale, AZ",Lower,1999,27821.02696
+"Pittsburgh, PA",Lower,1999,27551.9735
+"Portland-South Portland, ME",Lower,1999,28891.89297
+"Portland-Vancouver-Hillsboro, OR-WA",Lower,1999,28168.97966
+"Port St. Lucie, FL",Lower,1999,28407.80185
+"Prescott, AZ",Lower,1999,28519.32547
+"Providence-Warwick, RI-MA",Lower,1999,25431.9748
+"Provo-Orem, UT",Lower,1999,30310.07676
+"Pueblo, CO",Lower,1999,26120.16365
+"Punta Gorda, FL",Lower,1999,28814.94729
+"Racine, WI",Lower,1999,29898.95096
+"Raleigh, NC",Lower,1999,26866.08008
+"Reading, PA",Lower,1999,29352.3949
+"Redding, CA",Lower,1999,26793.01709
+"Reno, NV",Lower,1999,28281.74867
+"Richmond, VA",Lower,1999,27474.14872
+"Riverside-San Bernardino-Ontario, CA",Lower,1999,25966.2723
+"Rochester, NY",Lower,1999,26996.35782
+"Rockford, IL",Lower,1999,27809.57424
+"Rocky Mount, NC",Lower,1999,25052.96057
+"Sacramento--Roseville--Arden-Arcade, CA",Lower,1999,26283.16346
+"Saginaw, MI",Lower,1999,27042.58384
+"St. Louis, MO-IL",Lower,1999,27378.54659
+"Salinas, CA",Lower,1999,28170.32273
+"Salisbury, MD-DE",Lower,1999,27675.36496
+"Salt Lake City, UT",Lower,1999,29855.19131
+"San Angelo, TX",Lower,1999,26839.16985
+"San Antonio-New Braunfels, TX",Lower,1999,26385.40768
+"San Diego-Carlsbad, CA",Lower,1999,26519.81232
+"San Francisco-Oakland-Hayward, CA",Lower,1999,25289.56059
+"San Jose-Sunnyvale-Santa Clara, CA",Lower,1999,26801.83251
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA",Lower,1999,25841.29357
+"Santa Cruz-Watsonville, CA",Lower,1999,25946.6879
+"Santa Fe, NM",Lower,1999,26505.52694
+"Santa Maria-Santa Barbara, CA",Lower,1999,26401.81755
+"Santa Rosa, CA",Lower,1999,28347.60792
+"Scranton--Wilkes-Barre--Hazleton, PA",Lower,1999,27943.39281
+"Seattle-Tacoma-Bellevue, WA",Lower,1999,27360.72039
+"Sheboygan, WI",Lower,1999,31542.89254
+"Shreveport-Bossier City, LA",Lower,1999,24693.82376
+"Spartanburg, SC",Lower,1999,27686.45139
+"Spokane-Spokane Valley, WA",Lower,1999,27235.25327
+"Springfield, IL",Lower,1999,29325.21605
+"Springfield, MA",Lower,1999,25221.69894
+"Springfield, MO",Lower,1999,28819.39163
+"Springfield, OH",Lower,1999,28046.27194
+"State College, PA",Lower,1999,26189.68582
+"Stockton-Lodi, CA",Lower,1999,25269.87851
+"Syracuse, NY",Lower,1999,26542.8887
+"Tampa-St. Petersburg-Clearwater, FL",Lower,1999,28290.8327
+"Toledo, OH",Lower,1999,26478.90975
+"Trenton, NJ",Lower,1999,26423.20899
+"Tucson, AZ",Lower,1999,26879.8038
+"Tyler, TX",Lower,1999,26172.64104
+"Urban Honolulu, HI",Lower,1999,26206.2422
+"Utica-Rome, NY",Lower,1999,26806.61872
+"Vallejo-Fairfield, CA",Lower,1999,28386.386
+"Virginia Beach-Norfolk-Newport News, VA-NC",Lower,1999,27676.19522
+"Visalia-Porterville, CA",Lower,1999,25270.39132
+"Waco, TX",Lower,1999,25633.77711
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Lower,1999,26949.8632
+"Wausau, WI",Lower,1999,28934.16303
+"Wichita, KS",Lower,1999,28331.00269
+"Wichita Falls, TX",Lower,1999,27779.44065
+"Winston-Salem, NC",Lower,1999,26775.7037
+"Worcester, MA-CT",Lower,1999,26072.91202
+"Yakima, WA",Lower,1999,25546.08688
+"York-Hanover, PA",Lower,1999,30450.3909
+"Youngstown-Warren-Boardman, OH-PA",Lower,1999,27712.72672
+"Yuba City, CA",Lower,1999,26552.07041
+"Yuma, AZ",Lower,1999,27390.56096
+"Akron, OH",Middle,1999,81671.30398
+"Albany-Schenectady-Troy, NY",Middle,1999,79718.2122
+"Albuquerque, NM",Middle,1999,76363.59069
+"Allentown-Bethlehem-Easton, PA-NJ",Middle,1999,78782.43458
+"Amarillo, TX",Middle,1999,76296.73024
+"Anchorage, AK",Middle,1999,81361.66539
+"Ann Arbor, MI",Middle,1999,82355.31711
+"Anniston-Oxford-Jacksonville, AL",Middle,1999,77661.85058
+"Atlanta-Sandy Springs-Roswell, GA",Middle,1999,82649.15631
+"Atlantic City-Hammonton, NJ",Middle,1999,75697.91657
+"Auburn-Opelika, AL",Middle,1999,81473.62856
+"Augusta-Richmond County, GA-SC",Middle,1999,78205.50073
+"Austin-Round Rock, TX",Middle,1999,80947.75577
+"Bakersfield, CA",Middle,1999,75657.99077
+"Baltimore-Columbia-Towson, MD",Middle,1999,80708.68938
+"Bangor, ME",Middle,1999,74842.16147
+"Barnstable Town, MA",Middle,1999,78374.80075
+"Baton Rouge, LA",Middle,1999,78572.10988
+"Beaumont-Port Arthur, TX",Middle,1999,76479.97377
+"Bellingham, WA",Middle,1999,74829.75639
+"Bend-Redmond, OR",Middle,1999,76742.92238
+"Binghamton, NY",Middle,1999,75314.72661
+"Birmingham-Hoover, AL",Middle,1999,80320.02947
+"Blacksburg-Christiansburg-Radford, VA",Middle,1999,79634.67327
+"Bloomington, IL",Middle,1999,83562.68782
+"Boise City, ID",Middle,1999,77121.05751
+"Boston-Cambridge-Newton, MA-NH",Middle,1999,82126.38479
+"Bremerton-Silverdale, WA",Middle,1999,76750.17495
+"Bridgeport-Stamford-Norwalk, CT",Middle,1999,79813.7655
+"Brownsville-Harlingen, TX",Middle,1999,72590.51754
+"Buffalo-Cheektowaga-Niagara Falls, NY",Middle,1999,77921.69791
+"Burlington, NC",Middle,1999,77816.81639
+"Burlington-South Burlington, VT",Middle,1999,78462.83286
+"Canton-Massillon, OH",Middle,1999,78551.42661
+"Cape Coral-Fort Myers, FL",Middle,1999,74981.79187
+"Champaign-Urbana, IL",Middle,1999,78935.47125
+"Charleston-North Charleston, SC",Middle,1999,77280.22347
+"Charlotte-Concord-Gastonia, NC-SC",Middle,1999,80482.51647
+"Chattanooga, TN-GA",Middle,1999,78187.23498
+"Chicago-Naperville-Elgin, IL-IN-WI",Middle,1999,80899.23433
+"Chico, CA",Middle,1999,72886.48123
+"Cincinnati, OH-KY-IN",Middle,1999,80702.19381
+"Clarksville, TN-KY",Middle,1999,76487.95893
+"Cleveland-Elyria, OH",Middle,1999,81549.98817
+"Colorado Springs, CO",Middle,1999,79045.99367
+"Columbia, MO",Middle,1999,78760.75011
+"Columbus, OH",Middle,1999,82005.60621
+"Corpus Christi, TX",Middle,1999,75636.03769
+"Dallas-Fort Worth-Arlington, TX",Middle,1999,79159.2999
+"Daphne-Fairhope-Foley, AL",Middle,1999,76747.46439
+"Dayton, OH",Middle,1999,79858.18447
+"Decatur, AL",Middle,1999,81119.52216
+"Decatur, IL",Middle,1999,79480.31795
+"Deltona-Daytona Beach-Ormond Beach, FL",Middle,1999,72903.81904
+"Denver-Aurora-Lakewood, CO",Middle,1999,82644.85849
+"Detroit-Warren-Dearborn, MI",Middle,1999,82461.63938
+"Dover, DE",Middle,1999,78145.55098
+"East Stroudsburg, PA",Middle,1999,78534.89464
+"Eau Claire, WI",Middle,1999,77683.60831
+"El Centro, CA",Middle,1999,75477.89735
+"Elkhart-Goshen, IN",Middle,1999,78253.28958
+"El Paso, TX",Middle,1999,73398.36168
+"Erie, PA",Middle,1999,76102.00957
+"Eugene, OR",Middle,1999,76436.89787
+"Fayetteville, NC",Middle,1999,75418.14296
+"Fayetteville-Springdale-Rogers, AR-MO",Middle,1999,75816.27763
+"Flagstaff, AZ",Middle,1999,73700.55233
+"Fort Collins, CO",Middle,1999,81288.65125
+"Fort Wayne, IN",Middle,1999,80050.02364
+"Fresno, CA",Middle,1999,75446.27417
+"Gadsden, AL",Middle,1999,75494.13628
+"Gainesville, FL",Middle,1999,74808.75567
+"Gainesville, GA",Middle,1999,79802.11742
+"Glens Falls, NY",Middle,1999,75184.86399
+"Goldsboro, NC",Middle,1999,77591.69351
+"Grand Junction, CO",Middle,1999,72152.38382
+"Grand Rapids-Wyoming, MI",Middle,1999,80824.99921
+"Greensboro-High Point, NC",Middle,1999,78918.13344
+"Greenville, NC",Middle,1999,79797.30679
+"Greenville-Anderson-Mauldin, SC",Middle,1999,78117.93259
+"Gulfport-Biloxi-Pascagoula, MS",Middle,1999,75017.371
+"Hanford-Corcoran, CA",Middle,1999,74525.27031
+"Harrisburg-Carlisle, PA",Middle,1999,80022.86922
+"Hartford-West Hartford-East Hartford, CT",Middle,1999,84039.40426
+"Hickory-Lenoir-Morganton, NC",Middle,1999,78510.42636
+"Hilton Head Island-Bluffton-Beaufort, SC",Middle,1999,78122.05948
+"Houma-Thibodaux, LA",Middle,1999,75623.29074
+"Houston-The Woodlands-Sugar Land, TX",Middle,1999,79125.82084
+"Huntsville, AL",Middle,1999,80378.31869
+"Indianapolis-Carmel-Anderson, IN",Middle,1999,81481.68697
+"Jackson, MI",Middle,1999,79628.64167
+"Jackson, TN",Middle,1999,80117.07945
+"Jacksonville, FL",Middle,1999,77878.40224
+"Janesville-Beloit, WI",Middle,1999,81049.92673
+"Johnstown, PA",Middle,1999,74114.36428
+"Joplin, MO",Middle,1999,74393.64949
+"Kalamazoo-Portage, MI",Middle,1999,79072.17131
+"Kankakee, IL",Middle,1999,78027.38528
+"Kansas City, MO-KS",Middle,1999,82099.86527
+"Knoxville, TN",Middle,1999,76742.92238
+"Lafayette, LA",Middle,1999,77698.23556
+"Lake Havasu City-Kingman, AZ",Middle,1999,69609.87985
+"Lakeland-Winter Haven, FL",Middle,1999,74334.74979
+"Lancaster, PA",Middle,1999,78023.72236
+"Lansing-East Lansing, MI",Middle,1999,80857.30614
+"Laredo, TX",Middle,1999,71821.89103
+"Las Cruces, NM",Middle,1999,73479.58076
+"Las Vegas-Henderson-Paradise, NV",Middle,1999,77445.22567
+"Lebanon, PA",Middle,1999,78103.69605
+"Lewiston-Auburn, ME",Middle,1999,77276.73148
+"Lincoln, NE",Middle,1999,79571.91529
+"Little Rock-North Little Rock-Conway, AR",Middle,1999,78325.40021
+"Los Angeles-Long Beach-Anaheim, CA",Middle,1999,76770.88264
+"Louisville/Jefferson County, KY-IN",Middle,1999,79976.35017
+"Lubbock, TX",Middle,1999,72971.65626
+"Lynchburg, VA",Middle,1999,76802.18837
+"Madera, CA",Middle,1999,75524.07453
+"Manchester-Nashua, NH",Middle,1999,79297.53839
+"Mansfield, OH",Middle,1999,77431.18449
+"McAllen-Edinburg-Mission, TX",Middle,1999,70746.75162
+"Medford, OR",Middle,1999,74040.10474
+"Memphis, TN-MS-AR",Middle,1999,79249.89605
+"Merced, CA",Middle,1999,73921.08436
+"Miami-Fort Lauderdale-West Palm Beach, FL",Middle,1999,75490.83966
+"Michigan City-La Porte, IN",Middle,1999,81369.87033
+"Midland, TX",Middle,1999,77069.14177
+"Milwaukee-Waukesha-West Allis, WI",Middle,1999,82990.83321
+"Minneapolis-St. Paul-Bloomington, MN-WI",Middle,1999,83452.87356
+"Mobile, AL",Middle,1999,77180.44561
+"Modesto, CA",Middle,1999,75271.55303
+"Monroe, LA",Middle,1999,77788.90496
+"Monroe, MI",Middle,1999,82017.05893
+"Montgomery, AL",Middle,1999,77648.95711
+"Morgantown, WV",Middle,1999,77621.14336
+"Muncie, IN",Middle,1999,77588.10385
+"Muskegon, MI",Middle,1999,78597.55495
+"Napa, CA",Middle,1999,77071.33952
+"Naples-Immokalee-Marco Island, FL",Middle,1999,77416.09327
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Middle,1999,80058.47277
+"New Haven-Milford, CT",Middle,1999,79500.04886
+"New Orleans-Metairie, LA",Middle,1999,75344.15204
+"New York-Newark-Jersey City, NY-NJ-PA",Middle,1999,78878.20765
+"Niles-Benton Harbor, MI",Middle,1999,78002.84374
+"North Port-Sarasota-Bradenton, FL",Middle,1999,75321.27102
+"Norwich-New London, CT",Middle,1999,81603.63769
+"Ocala, FL",Middle,1999,71573.3499
+"Ocean City, NJ",Middle,1999,75892.24653
+"Odessa, TX",Middle,1999,73603.53387
+"Ogden-Clearfield, UT",Middle,1999,79483.73667
+"Oklahoma City, OK",Middle,1999,77242.86171
+"Olympia-Tumwater, WA",Middle,1999,79072.48877
+"Omaha-Council Bluffs, NE-IA",Middle,1999,78897.57227
+"Orlando-Kissimmee-Sanford, FL",Middle,1999,75926.1163
+"Owensboro, KY",Middle,1999,80063.77179
+"Oxnard-Thousand Oaks-Ventura, CA",Middle,1999,81325.86648
+"Palm Bay-Melbourne-Titusville, FL",Middle,1999,76308.18296
+"Pensacola-Ferry Pass-Brent, FL",Middle,1999,76429.10806
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Middle,1999,79452.96817
+"Phoenix-Mesa-Scottsdale, AZ",Middle,1999,77612.20585
+"Pittsburgh, PA",Middle,1999,77394.97045
+"Portland-South Portland, ME",Middle,1999,77814.39887
+"Portland-Vancouver-Hillsboro, OR-WA",Middle,1999,80015.76316
+"Port St. Lucie, FL",Middle,1999,73757.62058
+"Prescott, AZ",Middle,1999,71730.4402
+"Providence-Warwick, RI-MA",Middle,1999,79344.93654
+"Provo-Orem, UT",Middle,1999,75386.76398
+"Pueblo, CO",Middle,1999,72197.82841
+"Punta Gorda, FL",Middle,1999,73258.34057
+"Racine, WI",Middle,1999,83574.58009
+"Raleigh, NC",Middle,1999,83506.9138
+"Reading, PA",Middle,1999,79858.37983
+"Redding, CA",Middle,1999,75069.94607
+"Reno, NV",Middle,1999,79808.53973
+"Richmond, VA",Middle,1999,81410.23567
+"Riverside-San Bernardino-Ontario, CA",Middle,1999,74962.01212
+"Rochester, NY",Middle,1999,79586.68906
+"Rockford, IL",Middle,1999,82402.91061
+"Rocky Mount, NC",Middle,1999,77376.41167
+"Sacramento--Roseville--Arden-Arcade, CA",Middle,1999,80253.41322
+"Saginaw, MI",Middle,1999,78423.46871
+"St. Louis, MO-IL",Middle,1999,82965.26605
+"Salinas, CA",Middle,1999,77381.83278
+"Salisbury, MD-DE",Middle,1999,78684.87889
+"Salt Lake City, UT",Middle,1999,78970.80619
+"San Angelo, TX",Middle,1999,74320.04928
+"San Antonio-New Braunfels, TX",Middle,1999,77509.27788
+"San Diego-Carlsbad, CA",Middle,1999,76509.54572
+"San Francisco-Oakland-Hayward, CA",Middle,1999,81464.39801
+"San Jose-Sunnyvale-Santa Clara, CA",Middle,1999,84300.22837
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA",Middle,1999,76354.40898
+"Santa Cruz-Watsonville, CA",Middle,1999,78257.17228
+"Santa Fe, NM",Middle,1999,80706.88235
+"Santa Maria-Santa Barbara, CA",Middle,1999,76961.32991
+"Santa Rosa, CA",Middle,1999,77656.77134
+"Scranton--Wilkes-Barre--Hazleton, PA",Middle,1999,75802.4318
+"Seattle-Tacoma-Bellevue, WA",Middle,1999,80612.30583
+"Sheboygan, WI",Middle,1999,80281.44674
+"Shreveport-Bossier City, LA",Middle,1999,77605.19746
+"Spartanburg, SC",Middle,1999,78339.02626
+"Spokane-Spokane Valley, WA",Middle,1999,76896.86257
+"Springfield, IL",Middle,1999,81310.72643
+"Springfield, MA",Middle,1999,79608.69098
+"Springfield, MO",Middle,1999,74456.16328
+"Springfield, OH",Middle,1999,79378.53769
+"State College, PA",Middle,1999,76304.7154
+"Stockton-Lodi, CA",Middle,1999,77487.44689
+"Syracuse, NY",Middle,1999,78811.90885
+"Tampa-St. Petersburg-Clearwater, FL",Middle,1999,74697.69602
+"Toledo, OH",Middle,1999,80189.21449
+"Trenton, NJ",Middle,1999,82572.52809
+"Tucson, AZ",Middle,1999,75544.29383
+"Tyler, TX",Middle,1999,76248.91697
+"Urban Honolulu, HI",Middle,1999,77702.21593
+"Utica-Rome, NY",Middle,1999,75297.65741
+"Vallejo-Fairfield, CA",Middle,1999,78871.54114
+"Virginia Beach-Norfolk-Newport News, VA-NC",Middle,1999,77371.47894
+"Visalia-Porterville, CA",Middle,1999,74521.85159
+"Waco, TX",Middle,1999,74250.67363
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Middle,1999,82917.25742
+"Wausau, WI",Middle,1999,80082.28173
+"Wichita, KS",Middle,1999,80239.15226
+"Wichita Falls, TX",Middle,1999,74514.30598
+"Winston-Salem, NC",Middle,1999,80077.42226
+"Worcester, MA-CT",Middle,1999,80333.7532
+"Yakima, WA",Middle,1999,74107.96638
+"York-Hanover, PA",Middle,1999,78812.73911
+"Youngstown-Warren-Boardman, OH-PA",Middle,1999,78641.87624
+"Yuba City, CA",Middle,1999,71858.66671
+"Yuma, AZ",Middle,1999,72103.78912
+"Akron, OH",Upper,1999,180745.0291
+"Albany-Schenectady-Troy, NY",Upper,1999,177674.0394
+"Albuquerque, NM",Upper,1999,186766.8403
+"Allentown-Bethlehem-Easton, PA-NJ",Upper,1999,180202.5511
+"Amarillo, TX",Upper,1999,183931.1076
+"Anchorage, AK",Upper,1999,173445.8855
+"Ann Arbor, MI",Upper,1999,182023.2162
+"Anniston-Oxford-Jacksonville, AL",Upper,1999,185581.5936
+"Atlanta-Sandy Springs-Roswell, GA",Upper,1999,186041.192
+"Atlantic City-Hammonton, NJ",Upper,1999,178081.6489
+"Auburn-Opelika, AL",Upper,1999,182023.8511
+"Augusta-Richmond County, GA-SC",Upper,1999,180183.5772
+"Austin-Round Rock, TX",Upper,1999,189164.7323
+"Bakersfield, CA",Upper,1999,182597.6348
+"Baltimore-Columbia-Towson, MD",Upper,1999,180067.1697
+"Bangor, ME",Upper,1999,172849.7579
+"Barnstable Town, MA",Upper,1999,186052.9377
+"Baton Rouge, LA",Upper,1999,178283.8663
+"Beaumont-Port Arthur, TX",Upper,1999,175971.6133
+"Bellingham, WA",Upper,1999,186348.877
+"Bend-Redmond, OR",Upper,1999,196525.5838
+"Binghamton, NY",Upper,1999,187644.1821
+"Birmingham-Hoover, AL",Upper,1999,187202.9227
+"Blacksburg-Christiansburg-Radford, VA",Upper,1999,183106.6826
+"Bloomington, IL",Upper,1999,182100.0886
+"Boise City, ID",Upper,1999,182093.3
+"Boston-Cambridge-Newton, MA-NH",Upper,1999,187920.8789
+"Bremerton-Silverdale, WA",Upper,1999,175763.7794
+"Bridgeport-Stamford-Norwalk, CT",Upper,1999,224066.9104
+"Brownsville-Harlingen, TX",Upper,1999,193305.9286
+"Buffalo-Cheektowaga-Niagara Falls, NY",Upper,1999,177976.0836
+"Burlington, NC",Upper,1999,174398.1951
+"Burlington-South Burlington, VT",Upper,1999,178814.3544
+"Canton-Massillon, OH",Upper,1999,178229.24
+"Cape Coral-Fort Myers, FL",Upper,1999,224942.8116
+"Champaign-Urbana, IL",Upper,1999,185090.0789
+"Charleston-North Charleston, SC",Upper,1999,185584.7681
+"Charlotte-Concord-Gastonia, NC-SC",Upper,1999,187737.44
+"Chattanooga, TN-GA",Upper,1999,180857.7493
+"Chicago-Naperville-Elgin, IL-IN-WI",Upper,1999,186196.5729
+"Chico, CA",Upper,1999,185538.713
+"Cincinnati, OH-KY-IN",Upper,1999,183430.4112
+"Clarksville, TN-KY",Upper,1999,176304.7434
+"Cleveland-Elyria, OH",Upper,1999,181285.9931
+"Colorado Springs, CO",Upper,1999,186451.1456
+"Columbia, MO",Upper,1999,179734.5524
+"Columbus, OH",Upper,1999,180365.5509
+"Corpus Christi, TX",Upper,1999,180973.0823
+"Dallas-Fort Worth-Arlington, TX",Upper,1999,188530.8767
+"Daphne-Fairhope-Foley, AL",Upper,1999,187637.5889
+"Dayton, OH",Upper,1999,179753.5263
+"Decatur, AL",Upper,1999,183637.6102
+"Decatur, IL",Upper,1999,173264.3757
+"Deltona-Daytona Beach-Ormond Beach, FL",Upper,1999,189133.1579
+"Denver-Aurora-Lakewood, CO",Upper,1999,185800.1476
+"Detroit-Warren-Dearborn, MI",Upper,1999,181710.1345
+"Dover, DE",Upper,1999,169066.7217
+"East Stroudsburg, PA",Upper,1999,176472.0654
+"Eau Claire, WI",Upper,1999,176765.0744
+"El Centro, CA",Upper,1999,172858.0361
+"Elkhart-Goshen, IN",Upper,1999,176651.3286
+"El Paso, TX",Upper,1999,181295.883
+"Erie, PA",Upper,1999,176830.4697
+"Eugene, OR",Upper,1999,184154.9118
+"Fayetteville, NC",Upper,1999,172415.0918
+"Fayetteville-Springdale-Rogers, AR-MO",Upper,1999,187635.7086
+"Flagstaff, AZ",Upper,1999,181530.969
+"Fort Collins, CO",Upper,1999,178167.2634
+"Fort Wayne, IN",Upper,1999,175010.4394
+"Fresno, CA",Upper,1999,183163.4578
+"Gadsden, AL",Upper,1999,168770.5382
+"Gainesville, FL",Upper,1999,193110.2311
+"Gainesville, GA",Upper,1999,182452.5345
+"Glens Falls, NY",Upper,1999,183605.0835
+"Goldsboro, NC",Upper,1999,171692.2273
+"Grand Junction, CO",Upper,1999,189108.0547
+"Grand Rapids-Wyoming, MI",Upper,1999,175182.2791
+"Greensboro-High Point, NC",Upper,1999,186533.7566
+"Greenville, NC",Upper,1999,179354.3904
+"Greenville-Anderson-Mauldin, SC",Upper,1999,180104.4582
+"Gulfport-Biloxi-Pascagoula, MS",Upper,1999,183400.937
+"Hanford-Corcoran, CA",Upper,1999,170976.298
+"Harrisburg-Carlisle, PA",Upper,1999,178087.2653
+"Hartford-West Hartford-East Hartford, CT",Upper,1999,181885.2707
+"Hickory-Lenoir-Morganton, NC",Upper,1999,176117.3485
+"Hilton Head Island-Bluffton-Beaufort, SC",Upper,1999,228446.8068
+"Houma-Thibodaux, LA",Upper,1999,176949.4656
+"Houston-The Woodlands-Sugar Land, TX",Upper,1999,189901.9798
+"Huntsville, AL",Upper,1999,182833.6488
+"Indianapolis-Carmel-Anderson, IN",Upper,1999,181268.4355
+"Jackson, MI",Upper,1999,177837.2834
+"Jackson, TN",Upper,1999,182287.6544
+"Jacksonville, FL",Upper,1999,184124.2654
+"Janesville-Beloit, WI",Upper,1999,173598.8977
+"Johnstown, PA",Upper,1999,176055.3232
+"Joplin, MO",Upper,1999,176839.6025
+"Kalamazoo-Portage, MI",Upper,1999,182049.8822
+"Kankakee, IL",Upper,1999,170162.1048
+"Kansas City, MO-KS",Upper,1999,180114.2992
+"Knoxville, TN",Upper,1999,181381.8883
+"Lafayette, LA",Upper,1999,178439.003
+"Lake Havasu City-Kingman, AZ",Upper,1999,182044.1437
+"Lakeland-Winter Haven, FL",Upper,1999,179119.8905
+"Lancaster, PA",Upper,1999,175814.23
+"Lansing-East Lansing, MI",Upper,1999,177172.9036
+"Laredo, TX",Upper,1999,174234.1941
+"Las Cruces, NM",Upper,1999,178637.5576
+"Las Vegas-Henderson-Paradise, NV",Upper,1999,180786.2003
+"Lebanon, PA",Upper,1999,174526.1286
+"Lewiston-Auburn, ME",Upper,1999,169622.435
+"Lincoln, NE",Upper,1999,182448.896
+"Little Rock-North Little Rock-Conway, AR",Upper,1999,178690.621
+"Los Angeles-Long Beach-Anaheim, CA",Upper,1999,196028.6236
+"Louisville/Jefferson County, KY-IN",Upper,1999,181279.7417
+"Lubbock, TX",Upper,1999,182438.4689
+"Lynchburg, VA",Upper,1999,177346.1107
+"Madera, CA",Upper,1999,179502.4699
+"Manchester-Nashua, NH",Upper,1999,177616.0921
+"Mansfield, OH",Upper,1999,171497.3357
+"McAllen-Edinburg-Mission, TX",Upper,1999,183453.6585
+"Medford, OR",Upper,1999,197567.5616
+"Memphis, TN-MS-AR",Upper,1999,183949.1535
+"Merced, CA",Upper,1999,180241.7199
+"Miami-Fort Lauderdale-West Palm Beach, FL",Upper,1999,203687.1971
+"Michigan City-La Porte, IN",Upper,1999,166393.0608
+"Midland, TX",Upper,1999,202270.3319
+"Milwaukee-Waukesha-West Allis, WI",Upper,1999,177191.7554
+"Minneapolis-St. Paul-Bloomington, MN-WI",Upper,1999,180656.4842
+"Mobile, AL",Upper,1999,175419.05
+"Modesto, CA",Upper,1999,180681.7339
+"Monroe, LA",Upper,1999,184760.5873
+"Monroe, MI",Upper,1999,176960.4055
+"Montgomery, AL",Upper,1999,184297.7167
+"Morgantown, WV",Upper,1999,170109.5541
+"Muncie, IN",Upper,1999,166776.3973
+"Muskegon, MI",Upper,1999,165709.0966
+"Napa, CA",Upper,1999,207091.1459
+"Naples-Immokalee-Marco Island, FL",Upper,1999,253116.9926
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Upper,1999,184217.4012
+"New Haven-Milford, CT",Upper,1999,181080.6988
+"New Orleans-Metairie, LA",Upper,1999,187481.9393
+"New York-Newark-Jersey City, NY-NJ-PA",Upper,1999,194706.5548
+"Niles-Benton Harbor, MI",Upper,1999,182274.6877
+"North Port-Sarasota-Bradenton, FL",Upper,1999,223085.3219
+"Norwich-New London, CT",Upper,1999,181053.6909
+"Ocala, FL",Upper,1999,190762.9606
+"Ocean City, NJ",Upper,1999,192074.3582
+"Odessa, TX",Upper,1999,184612.6299
+"Ogden-Clearfield, UT",Upper,1999,175412.3835
+"Oklahoma City, OK",Upper,1999,180295.5892
+"Olympia-Tumwater, WA",Upper,1999,175122.3293
+"Omaha-Council Bluffs, NE-IA",Upper,1999,181085.6559
+"Orlando-Kissimmee-Sanford, FL",Upper,1999,184299.597
+"Owensboro, KY",Upper,1999,170649.639
+"Oxnard-Thousand Oaks-Ventura, CA",Upper,1999,190410.9543
+"Palm Bay-Melbourne-Titusville, FL",Upper,1999,182399.5443
+"Pensacola-Ferry Pass-Brent, FL",Upper,1999,183122.7262
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Upper,1999,183864.589
+"Phoenix-Mesa-Scottsdale, AZ",Upper,1999,187562.8165
+"Pittsburgh, PA",Upper,1999,182812.2574
+"Portland-South Portland, ME",Upper,1999,181535.2668
+"Portland-Vancouver-Hillsboro, OR-WA",Upper,1999,183036.0616
+"Port St. Lucie, FL",Upper,1999,213364.9413
+"Prescott, AZ",Upper,1999,190128.8609
+"Providence-Warwick, RI-MA",Upper,1999,177449.9666
+"Provo-Orem, UT",Upper,1999,179362.9861
+"Pueblo, CO",Upper,1999,169549.8604
+"Punta Gorda, FL",Upper,1999,207205.8684
+"Racine, WI",Upper,1999,171932.8566
+"Raleigh, NC",Upper,1999,182512.9482
+"Reading, PA",Upper,1999,178540.5391
+"Redding, CA",Upper,1999,179384.3042
+"Reno, NV",Upper,1999,188029.7408
+"Richmond, VA",Upper,1999,182457.1009
+"Riverside-San Bernardino-Ontario, CA",Upper,1999,179674.8468
+"Rochester, NY",Upper,1999,178249.557
+"Rockford, IL",Upper,1999,172154.463
+"Rocky Mount, NC",Upper,1999,177151.2435
+"Sacramento--Roseville--Arden-Arcade, CA",Upper,1999,181592.7502
+"Saginaw, MI",Upper,1999,175490.5502
+"St. Louis, MO-IL",Upper,1999,182770.5245
+"Salinas, CA",Upper,1999,192222.3889
+"Salisbury, MD-DE",Upper,1999,182072.5679
+"Salt Lake City, UT",Upper,1999,179433.9246
+"San Angelo, TX",Upper,1999,191440.2096
+"San Antonio-New Braunfels, TX",Upper,1999,184561.0316
+"San Diego-Carlsbad, CA",Upper,1999,187973.4784
+"San Francisco-Oakland-Hayward, CA",Upper,1999,198693.64
+"San Jose-Sunnyvale-Santa Clara, CA",Upper,1999,195132.9183
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA",Upper,1999,190536.861
+"Santa Cruz-Watsonville, CA",Upper,1999,192481.7234
+"Santa Fe, NM",Upper,1999,197073.5318
+"Santa Maria-Santa Barbara, CA",Upper,1999,197868.4824
+"Santa Rosa, CA",Upper,1999,186130.2009
+"Scranton--Wilkes-Barre--Hazleton, PA",Upper,1999,177453.3121
+"Seattle-Tacoma-Bellevue, WA",Upper,1999,182404.8433
+"Sheboygan, WI",Upper,1999,172857.4257
+"Shreveport-Bossier City, LA",Upper,1999,178370.7263
+"Spartanburg, SC",Upper,1999,172486.5675
+"Spokane-Spokane Valley, WA",Upper,1999,183384.112
+"Springfield, IL",Upper,1999,176208.2133
+"Springfield, MA",Upper,1999,174611.6943
+"Springfield, MO",Upper,1999,188609.6782
+"Springfield, OH",Upper,1999,173265.3037
+"State College, PA",Upper,1999,174832.1042
+"Stockton-Lodi, CA",Upper,1999,178169.5589
+"Syracuse, NY",Upper,1999,176597.0442
+"Tampa-St. Petersburg-Clearwater, FL",Upper,1999,188853.6529
+"Toledo, OH",Upper,1999,177399.7114
+"Trenton, NJ",Upper,1999,188913.2608
+"Tucson, AZ",Upper,1999,195355.5748
+"Tyler, TX",Upper,1999,189874.7521
+"Urban Honolulu, HI",Upper,1999,173204.6702
+"Utica-Rome, NY",Upper,1999,175241.3009
+"Vallejo-Fairfield, CA",Upper,1999,171468.765
+"Virginia Beach-Norfolk-Newport News, VA-NC",Upper,1999,177197.2253
+"Visalia-Porterville, CA",Upper,1999,185660.0044
+"Waco, TX",Upper,1999,183660.3447
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Upper,1999,187072.9869
+"Wausau, WI",Upper,1999,180455.7807
+"Wichita, KS",Upper,1999,175344.2533
+"Wichita Falls, TX",Upper,1999,179294.0744
+"Winston-Salem, NC",Upper,1999,179676.8736
+"Worcester, MA-CT",Upper,1999,172179.6151
+"Yakima, WA",Upper,1999,178260.448
+"York-Hanover, PA",Upper,1999,171113.3888
+"Youngstown-Warren-Boardman, OH-PA",Upper,1999,170716.8658
+"Yuba City, CA",Upper,1999,180958.8458
+"Yuma, AZ",Upper,1999,180115.0074
+"Akron, OH",Lower,2014,25969.67699
+"Albany-Schenectady-Troy, NY",Lower,2014,24641.59239
+"Albuquerque, NM",Lower,2014,21442.49455
+"Allentown-Bethlehem-Easton, PA-NJ",Lower,2014,25739.85117
+"Amarillo, TX",Lower,2014,25958.55722
+"Anchorage, AK",Lower,2014,24474.62269
+"Ann Arbor, MI",Lower,2014,23632.81136
+"Anniston-Oxford-Jacksonville, AL",Lower,2014,21180.8856
+"Atlanta-Sandy Springs-Roswell, GA",Lower,2014,23651.95052
+"Atlantic City-Hammonton, NJ",Lower,2014,24123.27619
+"Auburn-Opelika, AL",Lower,2014,21122.56744
+"Augusta-Richmond County, GA-SC",Lower,2014,22574.45903
+"Austin-Round Rock, TX",Lower,2014,22286.76539
+"Bakersfield, CA",Lower,2014,21812.23543
+"Baltimore-Columbia-Towson, MD",Lower,2014,22977.94027
+"Bangor, ME",Lower,2014,24066.20511
+"Barnstable Town, MA",Lower,2014,27149.51536
+"Baton Rouge, LA",Lower,2014,21612.91103
+"Beaumont-Port Arthur, TX",Lower,2014,23081.29174
+"Bellingham, WA",Lower,2014,24182.70285
+"Bend-Redmond, OR",Lower,2014,26707.82508
+"Binghamton, NY",Lower,2014,21855.53671
+"Birmingham-Hoover, AL",Lower,2014,23237.90378
+"Blacksburg-Christiansburg-Radford, VA",Lower,2014,20805.41162
+"Bloomington, IL",Lower,2014,23454.15032
+"Boise City, ID",Lower,2014,24815.21316
+"Boston-Cambridge-Newton, MA-NH",Lower,2014,22529.11394
+"Bremerton-Silverdale, WA",Lower,2014,22922.63589
+"Bridgeport-Stamford-Norwalk, CT",Lower,2014,23801.35722
+"Brownsville-Harlingen, TX",Lower,2014,20305.40319
+"Buffalo-Cheektowaga-Niagara Falls, NY",Lower,2014,24004.97712
+"Burlington, NC",Lower,2014,24386.9636
+"Burlington-South Burlington, VT",Lower,2014,30942.81055
+"Canton-Massillon, OH",Lower,2014,23710.13011
+"Cape Coral-Fort Myers, FL",Lower,2014,25315.98369
+"Champaign-Urbana, IL",Lower,2014,22040.93542
+"Charleston-North Charleston, SC",Lower,2014,22966.52605
+"Charlotte-Concord-Gastonia, NC-SC",Lower,2014,24478.65837
+"Chattanooga, TN-GA",Lower,2014,23705.76534
+"Chicago-Naperville-Elgin, IL-IN-WI",Lower,2014,23252.43568
+"Chico, CA",Lower,2014,23834.85509
+"Cincinnati, OH-KY-IN",Lower,2014,24224.23743
+"Clarksville, TN-KY",Lower,2014,25582.80612
+"Cleveland-Elyria, OH",Lower,2014,23223.02546
+"Colorado Springs, CO",Lower,2014,24642.75286
+"Columbia, MO",Lower,2014,18496.69182
+"Columbus, OH",Lower,2014,23157.6059
+"Corpus Christi, TX",Lower,2014,23787.82991
+"Dallas-Fort Worth-Arlington, TX",Lower,2014,23809.51518
+"Daphne-Fairhope-Foley, AL",Lower,2014,23781.45596
+"Dayton, OH",Lower,2014,23144.7714
+"Decatur, AL",Lower,2014,26747.29852
+"Decatur, IL",Lower,2014,24470.48309
+"Deltona-Daytona Beach-Ormond Beach, FL",Lower,2014,25754.05398
+"Denver-Aurora-Lakewood, CO",Lower,2014,24790.80857
+"Detroit-Warren-Dearborn, MI",Lower,2014,22916.36586
+"Dover, DE",Lower,2014,22743.40327
+"East Stroudsburg, PA",Lower,2014,28540.16163
+"Eau Claire, WI",Lower,2014,27585.21274
+"El Centro, CA",Lower,2014,22815.16213
+"Elkhart-Goshen, IN",Lower,2014,24716.41699
+"El Paso, TX",Lower,2014,23102.31884
+"Erie, PA",Lower,2014,25862.06467
+"Eugene, OR",Lower,2014,24290.95603
+"Fayetteville, NC",Lower,2014,24662.27308
+"Fayetteville-Springdale-Rogers, AR-MO",Lower,2014,25731.13895
+"Flagstaff, AZ",Lower,2014,22156.18608
+"Fort Collins, CO",Lower,2014,24848.45122
+"Fort Wayne, IN",Lower,2014,24675.52327
+"Fresno, CA",Lower,2014,22051.89931
+"Gadsden, AL",Lower,2014,24363.35575
+"Gainesville, FL",Lower,2014,20348.42734
+"Gainesville, GA",Lower,2014,26537.9109
+"Glens Falls, NY",Lower,2014,25686.43472
+"Goldsboro, NC",Lower,2014,23781.02295
+"Grand Junction, CO",Lower,2014,22376.7974
+"Grand Rapids-Wyoming, MI",Lower,2014,25220.44377
+"Greensboro-High Point, NC",Lower,2014,25765.19107
+"Greenville, NC",Lower,2014,21871.47157
+"Greenville-Anderson-Mauldin, SC",Lower,2014,25343.21153
+"Gulfport-Biloxi-Pascagoula, MS",Lower,2014,23057.21623
+"Hanford-Corcoran, CA",Lower,2014,20535.43686
+"Harrisburg-Carlisle, PA",Lower,2014,25540.11107
+"Hartford-West Hartford-East Hartford, CT",Lower,2014,24397.30394
+"Hickory-Lenoir-Morganton, NC",Lower,2014,24882.43406
+"Hilton Head Island-Bluffton-Beaufort, SC",Lower,2014,28343.3487
+"Houma-Thibodaux, LA",Lower,2014,22591.39849
+"Houston-The Woodlands-Sugar Land, TX",Lower,2014,24100.27455
+"Huntsville, AL",Lower,2014,21939.93954
+"Indianapolis-Carmel-Anderson, IN",Lower,2014,24056.26314
+"Jackson, MI",Lower,2014,26646.9435
+"Jackson, TN",Lower,2014,22661.49459
+"Jacksonville, FL",Lower,2014,24214.52062
+"Janesville-Beloit, WI",Lower,2014,22702.70008
+"Johnstown, PA",Lower,2014,23294.45523
+"Joplin, MO",Lower,2014,24099.8069
+"Kalamazoo-Portage, MI",Lower,2014,24690.14177
+"Kankakee, IL",Lower,2014,25066.86283
+"Kansas City, MO-KS",Lower,2014,25786.6685
+"Knoxville, TN",Lower,2014,24199.17465
+"Lafayette, LA",Lower,2014,23642.66673
+"Lake Havasu City-Kingman, AZ",Lower,2014,26404.56031
+"Lakeland-Winter Haven, FL",Lower,2014,24796.45505
+"Lancaster, PA",Lower,2014,26376.41448
+"Lansing-East Lansing, MI",Lower,2014,23922.82595
+"Laredo, TX",Lower,2014,20018.81807
+"Las Cruces, NM",Lower,2014,20346.31423
+"Las Vegas-Henderson-Paradise, NV",Lower,2014,24986.99796
+"Lebanon, PA",Lower,2014,24624.49705
+"Lewiston-Auburn, ME",Lower,2014,22266.62164
+"Lincoln, NE",Lower,2014,26101.95371
+"Little Rock-North Little Rock-Conway, AR",Lower,2014,25695.25086
+"Los Angeles-Long Beach-Anaheim, CA",Lower,2014,22073.72315
+"Louisville/Jefferson County, KY-IN",Lower,2014,24146.12194
+"Lubbock, TX",Lower,2014,23736.89029
+"Lynchburg, VA",Lower,2014,22966.42213
+"Madera, CA",Lower,2014,23976.74469
+"Manchester-Nashua, NH",Lower,2014,25854.11456
+"Mansfield, OH",Lower,2014,27320.03576
+"McAllen-Edinburg-Mission, TX",Lower,2014,19906.32137
+"Medford, OR",Lower,2014,24893.19009
+"Memphis, TN-MS-AR",Lower,2014,22379.37815
+"Merced, CA",Lower,2014,24008.35462
+"Miami-Fort Lauderdale-West Palm Beach, FL",Lower,2014,23256.55796
+"Michigan City-La Porte, IN",Lower,2014,24452.48708
+"Midland, TX",Lower,2014,26958.678
+"Milwaukee-Waukesha-West Allis, WI",Lower,2014,24079.50726
+"Minneapolis-St. Paul-Bloomington, MN-WI",Lower,2014,25297.72788
+"Mobile, AL",Lower,2014,23512.00082
+"Modesto, CA",Lower,2014,23460.2991
+"Monroe, LA",Lower,2014,21788.99131
+"Monroe, MI",Lower,2014,27204.99294
+"Montgomery, AL",Lower,2014,22614.86778
+"Morgantown, WV",Lower,2014,19995.83375
+"Muncie, IN",Lower,2014,22991.83132
+"Muskegon, MI",Lower,2014,21782.80789
+"Napa, CA",Lower,2014,24533.72027
+"Naples-Immokalee-Marco Island, FL",Lower,2014,24643.70549
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Lower,2014,24427.37235
+"New Haven-Milford, CT",Lower,2014,24148.3736
+"New Orleans-Metairie, LA",Lower,2014,21605.61909
+"New York-Newark-Jersey City, NY-NJ-PA",Lower,2014,21243.46459
+"Niles-Benton Harbor, MI",Lower,2014,26860.31483
+"North Port-Sarasota-Bradenton, FL",Lower,2014,25908.06794
+"Norwich-New London, CT",Lower,2014,24262.46379
+"Ocala, FL",Lower,2014,26101.12232
+"Ocean City, NJ",Lower,2014,24907.75664
+"Odessa, TX",Lower,2014,26890.76429
+"Ogden-Clearfield, UT",Lower,2014,27091.50898
+"Oklahoma City, OK",Lower,2014,23967.84195
+"Olympia-Tumwater, WA",Lower,2014,24861.97854
+"Omaha-Council Bluffs, NE-IA",Lower,2014,25419.85478
+"Orlando-Kissimmee-Sanford, FL",Lower,2014,24394.80979
+"Owensboro, KY",Lower,2014,26624.89449
+"Oxnard-Thousand Oaks-Ventura, CA",Lower,2014,23552.79061
+"Palm Bay-Melbourne-Titusville, FL",Lower,2014,25756.99847
+"Pensacola-Ferry Pass-Brent, FL",Lower,2014,26985.90584
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Lower,2014,22954.88667
+"Phoenix-Mesa-Scottsdale, AZ",Lower,2014,23539.02081
+"Pittsburgh, PA",Lower,2014,24086.90312
+"Portland-South Portland, ME",Lower,2014,24768.15334
+"Portland-Vancouver-Hillsboro, OR-WA",Lower,2014,24768.15334
+"Port St. Lucie, FL",Lower,2014,25673.4097
+"Prescott, AZ",Lower,2014,26089.46562
+"Providence-Warwick, RI-MA",Lower,2014,23401.70382
+"Provo-Orem, UT",Lower,2014,26701.71094
+"Pueblo, CO",Lower,2014,22963.96262
+"Punta Gorda, FL",Lower,2014,25838.49146
+"Racine, WI",Lower,2014,24956.70439
+"Raleigh, NC",Lower,2014,24307.42783
+"Reading, PA",Lower,2014,24494.90501
+"Redding, CA",Lower,2014,25875.14166
+"Reno, NV",Lower,2014,24046.58098
+"Richmond, VA",Lower,2014,23681.86304
+"Riverside-San Bernardino-Ontario, CA",Lower,2014,23529.75434
+"Rochester, NY",Lower,2014,26016.40772
+"Rockford, IL",Lower,2014,24878.20785
+"Rocky Mount, NC",Lower,2014,25313.05653
+"Sacramento--Roseville--Arden-Arcade, CA",Lower,2014,22649.02382
+"Saginaw, MI",Lower,2014,23757.5883
+"St. Louis, MO-IL",Lower,2014,23557.43251
+"Salinas, CA",Lower,2014,25023.16318
+"Salisbury, MD-DE",Lower,2014,25074.22404
+"Salt Lake City, UT",Lower,2014,26058.94689
+"San Angelo, TX",Lower,2014,25513.50677
+"San Antonio-New Braunfels, TX",Lower,2014,23192.17763
+"San Diego-Carlsbad, CA",Lower,2014,23129.25223
+"San Francisco-Oakland-Hayward, CA",Lower,2014,22194.04871
+"San Jose-Sunnyvale-Santa Clara, CA",Lower,2014,23560.4636
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA",Lower,2014,24662.72341
+"Santa Cruz-Watsonville, CA",Lower,2014,23655.72639
+"Santa Fe, NM",Lower,2014,23018.73007
+"Santa Maria-Santa Barbara, CA",Lower,2014,25221.22319
+"Santa Rosa, CA",Lower,2014,23074.29426
+"Scranton--Wilkes-Barre--Hazleton, PA",Lower,2014,24501.26163
+"Seattle-Tacoma-Bellevue, WA",Lower,2014,23442.82271
+"Sheboygan, WI",Lower,2014,29257.64636
+"Shreveport-Bossier City, LA",Lower,2014,22183.29268
+"Spartanburg, SC",Lower,2014,25587.11893
+"Spokane-Spokane Valley, WA",Lower,2014,24071.3493
+"Springfield, IL",Lower,2014,20722.35978
+"Springfield, MA",Lower,2014,23481.86313
+"Springfield, MO",Lower,2014,24326.54967
+"Springfield, OH",Lower,2014,25618.2612
+"State College, PA",Lower,2014,18113.26773
+"Stockton-Lodi, CA",Lower,2014,22704.13768
+"Syracuse, NY",Lower,2014,23602.36191
+"Tampa-St. Petersburg-Clearwater, FL",Lower,2014,24617.98454
+"Toledo, OH",Lower,2014,23382.6859
+"Trenton, NJ",Lower,2014,21831.4612
+"Tucson, AZ",Lower,2014,23141.48051
+"Tyler, TX",Lower,2014,24831.14803
+"Urban Honolulu, HI",Lower,2014,23995.0005
+"Utica-Rome, NY",Lower,2014,25224.04644
+"Vallejo-Fairfield, CA",Lower,2014,22591.97007
+"Virginia Beach-Norfolk-Newport News, VA-NC",Lower,2014,24304.15425
+"Visalia-Porterville, CA",Lower,2014,21904.27661
+"Waco, TX",Lower,2014,22980.05337
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Lower,2014,23372.2936
+"Wausau, WI",Lower,2014,28178.69995
+"Wichita, KS",Lower,2014,26028.18566
+"Wichita Falls, TX",Lower,2014,22840.22491
+"Winston-Salem, NC",Lower,2014,23017.29246
+"Worcester, MA-CT",Lower,2014,23959.19901
+"Yakima, WA",Lower,2014,24358.38476
+"York-Hanover, PA",Lower,2014,26463.69252
+"Youngstown-Warren-Boardman, OH-PA",Lower,2014,23432.48236
+"Yuba City, CA",Lower,2014,25218.93689
+"Yuma, AZ",Lower,2014,22626.87089
+"Akron, OH",Middle,2014,75771.61099
+"Albany-Schenectady-Troy, NY",Middle,2014,77119.99522
+"Albuquerque, NM",Middle,2014,71643.16396
+"Allentown-Bethlehem-Easton, PA-NJ",Middle,2014,76530.14532
+"Amarillo, TX",Middle,2014,71626.15522
+"Anchorage, AK",Middle,2014,79652.79044
+"Ann Arbor, MI",Middle,2014,74154.48175
+"Anniston-Oxford-Jacksonville, AL",Middle,2014,74870.1305
+"Atlanta-Sandy Springs-Roswell, GA",Middle,2014,73684.9401
+"Atlantic City-Hammonton, NJ",Middle,2014,73978.02041
+"Auburn-Opelika, AL",Middle,2014,74332.17284
+"Augusta-Richmond County, GA-SC",Middle,2014,74604.0875
+"Austin-Round Rock, TX",Middle,2014,75481.24999
+"Bakersfield, CA",Middle,2014,69949.59933
+"Baltimore-Columbia-Towson, MD",Middle,2014,78685.66523
+"Bangor, ME",Middle,2014,74648.70513
+"Barnstable Town, MA",Middle,2014,77832.50896
+"Baton Rouge, LA",Middle,2014,75268.81396
+"Beaumont-Port Arthur, TX",Middle,2014,70139.57066
+"Bellingham, WA",Middle,2014,75570.91826
+"Bend-Redmond, OR",Middle,2014,70902.93741
+"Binghamton, NY",Middle,2014,71030.46831
+"Birmingham-Hoover, AL",Middle,2014,74167.64534
+"Blacksburg-Christiansburg-Radford, VA",Middle,2014,70615.88463
+"Bloomington, IL",Middle,2014,73861.43607
+"Boise City, ID",Middle,2014,71130.90994
+"Boston-Cambridge-Newton, MA-NH",Middle,2014,78090.65381
+"Bremerton-Silverdale, WA",Middle,2014,75775.90647
+"Bridgeport-Stamford-Norwalk, CT",Middle,2014,76852.5839
+"Brownsville-Harlingen, TX",Middle,2014,68918.82125
+"Buffalo-Cheektowaga-Niagara Falls, NY",Middle,2014,74555.36491
+"Burlington, NC",Middle,2014,67627.49077
+"Burlington-South Burlington, VT",Middle,2014,79737.88609
+"Canton-Massillon, OH",Middle,2014,69798.6511
+"Cape Coral-Fort Myers, FL",Middle,2014,70452.15387
+"Champaign-Urbana, IL",Middle,2014,73250.90548
+"Charleston-North Charleston, SC",Middle,2014,76546.54784
+"Charlotte-Concord-Gastonia, NC-SC",Middle,2014,74177.76051
+"Chattanooga, TN-GA",Middle,2014,70419.41811
+"Chicago-Naperville-Elgin, IL-IN-WI",Middle,2014,74679.57027
+"Chico, CA",Middle,2014,67415.15866
+"Cincinnati, OH-KY-IN",Middle,2014,75502.10388
+"Clarksville, TN-KY",Middle,2014,70021.87781
+"Cleveland-Elyria, OH",Middle,2014,75263.65245
+"Colorado Springs, CO",Middle,2014,72446.57573
+"Columbia, MO",Middle,2014,75043.69931
+"Columbus, OH",Middle,2014,74866.30267
+"Corpus Christi, TX",Middle,2014,71888.40504
+"Dallas-Fort Worth-Arlington, TX",Middle,2014,74404.76309
+"Daphne-Fairhope-Foley, AL",Middle,2014,72529.66221
+"Dayton, OH",Middle,2014,73850.07382
+"Decatur, AL",Middle,2014,70675.64038
+"Decatur, IL",Middle,2014,76470.23368
+"Deltona-Daytona Beach-Ormond Beach, FL",Middle,2014,68919.30622
+"Denver-Aurora-Lakewood, CO",Middle,2014,77099.24525
+"Detroit-Warren-Dearborn, MI",Middle,2014,74615.22459
+"Dover, DE",Middle,2014,72674.28845
+"East Stroudsburg, PA",Middle,2014,67562.26174
+"Eau Claire, WI",Middle,2014,69619.81685
+"El Centro, CA",Middle,2014,65861.68229
+"Elkhart-Goshen, IN",Middle,2014,68454.97804
+"El Paso, TX",Middle,2014,67452.79612
+"Erie, PA",Middle,2014,68627.94064
+"Eugene, OR",Middle,2014,71138.21919
+"Fayetteville, NC",Middle,2014,70192.64069
+"Fayetteville-Springdale-Rogers, AR-MO",Middle,2014,71924.81275
+"Flagstaff, AZ",Middle,2014,72974.72998
+"Fort Collins, CO",Middle,2014,72197.36826
+"Fort Wayne, IN",Middle,2014,71409.77012
+"Fresno, CA",Middle,2014,69301.84696
+"Gadsden, AL",Middle,2014,71554.58689
+"Gainesville, FL",Middle,2014,72846.07325
+"Gainesville, GA",Middle,2014,73212.38467
+"Glens Falls, NY",Middle,2014,72918.64618
+"Goldsboro, NC",Middle,2014,68172.25539
+"Grand Junction, CO",Middle,2014,75949.37136
+"Grand Rapids-Wyoming, MI",Middle,2014,72679.06891
+"Greensboro-High Point, NC",Middle,2014,71963.93977
+"Greenville, NC",Middle,2014,71025.93034
+"Greenville-Anderson-Mauldin, SC",Middle,2014,72522.78597
+"Gulfport-Biloxi-Pascagoula, MS",Middle,2014,70527.94841
+"Hanford-Corcoran, CA",Middle,2014,64549.11687
+"Harrisburg-Carlisle, PA",Middle,2014,75541.16163
+"Hartford-West Hartford-East Hartford, CT",Middle,2014,80267.14886
+"Hickory-Lenoir-Morganton, NC",Middle,2014,71477.82239
+"Hilton Head Island-Bluffton-Beaufort, SC",Middle,2014,70208.29843
+"Houma-Thibodaux, LA",Middle,2014,69840.75725
+"Houston-The Woodlands-Sugar Land, TX",Middle,2014,73046.41957
+"Huntsville, AL",Middle,2014,76670.32019
+"Indianapolis-Carmel-Anderson, IN",Middle,2014,74019.26054
+"Jackson, MI",Middle,2014,74023.03641
+"Jackson, TN",Middle,2014,74517.6062
+"Jacksonville, FL",Middle,2014,72093.6877
+"Janesville-Beloit, WI",Middle,2014,71641.62244
+"Johnstown, PA",Middle,2014,71878.65359
+"Joplin, MO",Middle,2014,71766.72847
+"Kalamazoo-Portage, MI",Middle,2014,73360.82143
+"Kankakee, IL",Middle,2014,77848.91148
+"Kansas City, MO-KS",Middle,2014,74706.50366
+"Knoxville, TN",Middle,2014,71263.68895
+"Lafayette, LA",Middle,2014,72278.34164
+"Lake Havasu City-Kingman, AZ",Middle,2014,65406.58594
+"Lakeland-Winter Haven, FL",Middle,2014,68589.74892
+"Lancaster, PA",Middle,2014,74069.09165
+"Lansing-East Lansing, MI",Middle,2014,74191.33979
+"Laredo, TX",Middle,2014,69750.04975
+"Las Cruces, NM",Middle,2014,71575.99503
+"Las Vegas-Henderson-Paradise, NV",Middle,2014,71068.55611
+"Lebanon, PA",Middle,2014,79999.99734
+"Lewiston-Auburn, ME",Middle,2014,73562.12037
+"Lincoln, NE",Middle,2014,73644.79116
+"Little Rock-North Little Rock-Conway, AR",Middle,2014,74023.03641
+"Los Angeles-Long Beach-Anaheim, CA",Middle,2014,72573.0674
+"Louisville/Jefferson County, KY-IN",Middle,2014,73986.83655
+"Lubbock, TX",Middle,2014,70663.81048
+"Lynchburg, VA",Middle,2014,73078.70499
+"Madera, CA",Middle,2014,65082.64048
+"Manchester-Nashua, NH",Middle,2014,79161.71939
+"Mansfield, OH",Middle,2014,70266.14893
+"McAllen-Edinburg-Mission, TX",Middle,2014,70545.07839
+"Medford, OR",Middle,2014,69949.85913
+"Memphis, TN-MS-AR",Middle,2014,73537.88898
+"Merced, CA",Middle,2014,68703.47537
+"Miami-Fort Lauderdale-West Palm Beach, FL",Middle,2014,70796.74537
+"Michigan City-La Porte, IN",Middle,2014,69882.49968
+"Midland, TX",Middle,2014,77247.38756
+"Milwaukee-Waukesha-West Allis, WI",Middle,2014,74594.6305
+"Minneapolis-St. Paul-Bloomington, MN-WI",Middle,2014,78420.41897
+"Mobile, AL",Middle,2014,70536.00245
+"Modesto, CA",Middle,2014,70342.39381
+"Monroe, LA",Middle,2014,76472.43338
+"Monroe, MI",Middle,2014,72715.21681
+"Montgomery, AL",Middle,2014,74928.77774
+"Morgantown, WV",Middle,2014,74623.50379
+"Muncie, IN",Middle,2014,67699.11107
+"Muskegon, MI",Middle,2014,69853.76495
+"Napa, CA",Middle,2014,70950.01455
+"Naples-Immokalee-Marco Island, FL",Middle,2014,71976.93015
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Middle,2014,73861.43607
+"New Haven-Milford, CT",Middle,2014,75154.72377
+"New Orleans-Metairie, LA",Middle,2014,72568.04445
+"New York-Newark-Jersey City, NY-NJ-PA",Middle,2014,73644.02906
+"Niles-Benton Harbor, MI",Middle,2014,70122.11159
+"North Port-Sarasota-Bradenton, FL",Middle,2014,72517.78034
+"Norwich-New London, CT",Middle,2014,79042.00004
+"Ocala, FL",Middle,2014,66551.15976
+"Ocean City, NJ",Middle,2014,73326.5095
+"Odessa, TX",Middle,2014,72775.24969
+"Ogden-Clearfield, UT",Middle,2014,74072.15738
+"Oklahoma City, OK",Middle,2014,74146.72216
+"Olympia-Tumwater, WA",Middle,2014,73719.09614
+"Omaha-Council Bluffs, NE-IA",Middle,2014,76224.92332
+"Orlando-Kissimmee-Sanford, FL",Middle,2014,70768.16654
+"Owensboro, KY",Middle,2014,70065.49084
+"Oxnard-Thousand Oaks-Ventura, CA",Middle,2014,74999.99967
+"Palm Bay-Melbourne-Titusville, FL",Middle,2014,72851.7717
+"Pensacola-Ferry Pass-Brent, FL",Middle,2014,72654.35255
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Middle,2014,75446.14132
+"Phoenix-Mesa-Scottsdale, AZ",Middle,2014,72900.71945
+"Pittsburgh, PA",Middle,2014,75386.50681
+"Portland-South Portland, ME",Middle,2014,74919.84036
+"Portland-Vancouver-Hillsboro, OR-WA",Middle,2014,73308.79062
+"Port St. Lucie, FL",Middle,2014,69035.71736
+"Prescott, AZ",Middle,2014,67782.42271
+"Providence-Warwick, RI-MA",Middle,2014,75482.75687
+"Provo-Orem, UT",Middle,2014,70488.90798
+"Pueblo, CO",Middle,2014,74434.9181
+"Punta Gorda, FL",Middle,2014,67319.63606
+"Racine, WI",Middle,2014,81283.42967
+"Raleigh, NC",Middle,2014,76866.83867
+"Reading, PA",Middle,2014,72168.78942
+"Redding, CA",Middle,2014,71036.58245
+"Reno, NV",Middle,2014,72313.98724
+"Richmond, VA",Middle,2014,76005.47249
+"Riverside-San Bernardino-Ontario, CA",Middle,2014,70480.59414
+"Rochester, NY",Middle,2014,71277.80517
+"Rockford, IL",Middle,2014,74172.47776
+"Rocky Mount, NC",Middle,2014,65774.07516
+"Sacramento--Roseville--Arden-Arcade, CA",Middle,2014,74278.98156
+"Saginaw, MI",Middle,2014,74276.60865
+"St. Louis, MO-IL",Middle,2014,75641.9843
+"Salinas, CA",Middle,2014,70951.48679
+"Salisbury, MD-DE",Middle,2014,75222.68944
+"Salt Lake City, UT",Middle,2014,72096.3897
+"San Angelo, TX",Middle,2014,72216.21297
+"San Antonio-New Braunfels, TX",Middle,2014,73810.02881
+"San Diego-Carlsbad, CA",Middle,2014,73715.25099
+"San Francisco-Oakland-Hayward, CA",Middle,2014,76891.10471
+"San Jose-Sunnyvale-Santa Clara, CA",Middle,2014,78318.21065
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA",Middle,2014,75847.97711
+"Santa Cruz-Watsonville, CA",Middle,2014,71869.33516
+"Santa Fe, NM",Middle,2014,74074.33976
+"Santa Maria-Santa Barbara, CA",Middle,2014,74500.61478
+"Santa Rosa, CA",Middle,2014,73956.05801
+"Scranton--Wilkes-Barre--Hazleton, PA",Middle,2014,71965.42934
+"Seattle-Tacoma-Bellevue, WA",Middle,2014,76818.30661
+"Sheboygan, WI",Middle,2014,66719.186
+"Shreveport-Bossier City, LA",Middle,2014,70161.44646
+"Spartanburg, SC",Middle,2014,72232.1132
+"Spokane-Spokane Valley, WA",Middle,2014,70947.12203
+"Springfield, IL",Middle,2014,77190.80146
+"Springfield, MA",Middle,2014,74611.39675
+"Springfield, MO",Middle,2014,70182.0059
+"Springfield, OH",Middle,2014,72653.14011
+"State College, PA",Middle,2014,73689.09702
+"Stockton-Lodi, CA",Middle,2014,72973.88128
+"Syracuse, NY",Middle,2014,75471.70639
+"Tampa-St. Petersburg-Clearwater, FL",Middle,2014,69849.2443
+"Toledo, OH",Middle,2014,73000.0006
+"Trenton, NJ",Middle,2014,76410.1142
+"Tucson, AZ",Middle,2014,71495.905
+"Tyler, TX",Middle,2014,68861.36912
+"Urban Honolulu, HI",Middle,2014,75220.48974
+"Utica-Rome, NY",Middle,2014,72168.28713
+"Vallejo-Fairfield, CA",Middle,2014,75155.93621
+"Virginia Beach-Norfolk-Newport News, VA-NC",Middle,2014,75368.90917
+"Visalia-Porterville, CA",Middle,2014,67991.63713
+"Waco, TX",Middle,2014,70459.51508
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Middle,2014,79383.5085
+"Wausau, WI",Middle,2014,75143.20563
+"Wichita, KS",Middle,2014,73986.83655
+"Wichita Falls, TX",Middle,2014,76134.09458
+"Winston-Salem, NC",Middle,2014,71884.24812
+"Worcester, MA-CT",Middle,2014,77915.47419
+"Yakima, WA",Middle,2014,66757.58557
+"York-Hanover, PA",Middle,2014,74489.02736
+"Youngstown-Warren-Boardman, OH-PA",Middle,2014,71800.15705
+"Yuba City, CA",Middle,2014,68110.17869
+"Yuma, AZ",Middle,2014,64896.39306
+"Akron, OH",Upper,2014,173668.5429
+"Albany-Schenectady-Troy, NY",Upper,2014,163299.309
+"Albuquerque, NM",Upper,2014,178378.041
+"Allentown-Bethlehem-Easton, PA-NJ",Upper,2014,169740.9791
+"Amarillo, TX",Upper,2014,162210.0049
+"Anchorage, AK",Upper,2014,173913.0392
+"Ann Arbor, MI",Upper,2014,177262.6869
+"Anniston-Oxford-Jacksonville, AL",Upper,2014,178092.3046
+"Atlanta-Sandy Springs-Roswell, GA",Upper,2014,178754.1905
+"Atlantic City-Hammonton, NJ",Upper,2014,161652.7349
+"Auburn-Opelika, AL",Upper,2014,159387.5242
+"Augusta-Richmond County, GA-SC",Upper,2014,170837.6098
+"Austin-Round Rock, TX",Upper,2014,178189.8364
+"Bakersfield, CA",Upper,2014,164720.041
+"Baltimore-Columbia-Towson, MD",Upper,2014,171151.4574
+"Bangor, ME",Upper,2014,160051.8869
+"Barnstable Town, MA",Upper,2014,170645.4041
+"Baton Rouge, LA",Upper,2014,164616.2392
+"Beaumont-Port Arthur, TX",Upper,2014,164558.2328
+"Bellingham, WA",Upper,2014,161565.4222
+"Bend-Redmond, OR",Upper,2014,174936.3002
+"Binghamton, NY",Upper,2014,172571.8257
+"Birmingham-Hoover, AL",Upper,2014,167829.28
+"Blacksburg-Christiansburg-Radford, VA",Upper,2014,172546.1567
+"Bloomington, IL",Upper,2014,163499.5167
+"Boise City, ID",Upper,2014,173753.7771
+"Boston-Cambridge-Newton, MA-NH",Upper,2014,178046.6997
+"Bremerton-Silverdale, WA",Upper,2014,168446.2885
+"Bridgeport-Stamford-Norwalk, CT",Upper,2014,205191.1748
+"Brownsville-Harlingen, TX",Upper,2014,160810.5771
+"Buffalo-Cheektowaga-Niagara Falls, NY",Upper,2014,160339.7364
+"Burlington, NC",Upper,2014,167627.4961
+"Burlington-South Burlington, VT",Upper,2014,170503.705
+"Canton-Massillon, OH",Upper,2014,160321.2555
+"Cape Coral-Fort Myers, FL",Upper,2014,180298.9373
+"Champaign-Urbana, IL",Upper,2014,170594.1008
+"Charleston-North Charleston, SC",Upper,2014,172867.6426
+"Charlotte-Concord-Gastonia, NC-SC",Upper,2014,179646.7336
+"Chattanooga, TN-GA",Upper,2014,166322.7596
+"Chicago-Naperville-Elgin, IL-IN-WI",Upper,2014,170605.3764
+"Chico, CA",Upper,2014,169899.7389
+"Cincinnati, OH-KY-IN",Upper,2014,171381.2139
+"Clarksville, TN-KY",Upper,2014,164113.7886
+"Cleveland-Elyria, OH",Upper,2014,170302.1982
+"Colorado Springs, CO",Upper,2014,169418.9389
+"Columbia, MO",Upper,2014,166258.7776
+"Columbus, OH",Upper,2014,168975.4993
+"Corpus Christi, TX",Upper,2014,170991.2081
+"Dallas-Fort Worth-Arlington, TX",Upper,2014,175095.2158
+"Daphne-Fairhope-Foley, AL",Upper,2014,170301.6267
+"Dayton, OH",Upper,2014,167252.7496
+"Decatur, AL",Upper,2014,149644.1149
+"Decatur, IL",Upper,2014,152940.4674
+"Deltona-Daytona Beach-Ormond Beach, FL",Upper,2014,170261.7722
+"Denver-Aurora-Lakewood, CO",Upper,2014,173700.8976
+"Detroit-Warren-Dearborn, MI",Upper,2014,168575.1357
+"Dover, DE",Upper,2014,150657.0009
+"East Stroudsburg, PA",Upper,2014,161973.9437
+"Eau Claire, WI",Upper,2014,153922.4362
+"El Centro, CA",Upper,2014,162177.7541
+"Elkhart-Goshen, IN",Upper,2014,157703.2087
+"El Paso, TX",Upper,2014,164484.9844
+"Erie, PA",Upper,2014,164971.0151
+"Eugene, OR",Upper,2014,159689.8017
+"Fayetteville, NC",Upper,2014,172242.3203
+"Fayetteville-Springdale-Rogers, AR-MO",Upper,2014,170900.795
+"Flagstaff, AZ",Upper,2014,157289.5777
+"Fort Collins, CO",Upper,2014,165148.5157
+"Fort Wayne, IN",Upper,2014,176503.3905
+"Fresno, CA",Upper,2014,169397.4095
+"Gadsden, AL",Upper,2014,160693.4732
+"Gainesville, FL",Upper,2014,175557.9159
+"Gainesville, GA",Upper,2014,168581.146
+"Glens Falls, NY",Upper,2014,154385.9677
+"Goldsboro, NC",Upper,2014,173762.4374
+"Grand Junction, CO",Upper,2014,152834.7257
+"Grand Rapids-Wyoming, MI",Upper,2014,168094.2145
+"Greensboro-High Point, NC",Upper,2014,168020.4465
+"Greenville, NC",Upper,2014,161217.5918
+"Greenville-Anderson-Mauldin, SC",Upper,2014,170705.5929
+"Gulfport-Biloxi-Pascagoula, MS",Upper,2014,160161.9588
+"Hanford-Corcoran, CA",Upper,2014,174555.3702
+"Harrisburg-Carlisle, PA",Upper,2014,167877.7948
+"Hartford-West Hartford-East Hartford, CT",Upper,2014,175796.8177
+"Hickory-Lenoir-Morganton, NC",Upper,2014,159450.5189
+"Hilton Head Island-Bluffton-Beaufort, SC",Upper,2014,180192.1218
+"Houma-Thibodaux, LA",Upper,2014,155397.7278
+"Houston-The Woodlands-Sugar Land, TX",Upper,2014,182502.3658
+"Huntsville, AL",Upper,2014,186193.418
+"Indianapolis-Carmel-Anderson, IN",Upper,2014,166543.3535
+"Jackson, MI",Upper,2014,171301.7301
+"Jackson, TN",Upper,2014,159364.4013
+"Jacksonville, FL",Upper,2014,167617.8139
+"Janesville-Beloit, WI",Upper,2014,156237.7205
+"Johnstown, PA",Upper,2014,155201.0362
+"Joplin, MO",Upper,2014,162791.3158
+"Kalamazoo-Portage, MI",Upper,2014,170212.3394
+"Kankakee, IL",Upper,2014,168251.6406
+"Kansas City, MO-KS",Upper,2014,173843.1856
+"Knoxville, TN",Upper,2014,173673.9469
+"Lafayette, LA",Upper,2014,178557.0831
+"Lake Havasu City-Kingman, AZ",Upper,2014,165834.6503
+"Lakeland-Winter Haven, FL",Upper,2014,162102.1847
+"Lancaster, PA",Upper,2014,164625.6096
+"Lansing-East Lansing, MI",Upper,2014,168239.8973
+"Laredo, TX",Upper,2014,155340.8819
+"Las Cruces, NM",Upper,2014,176204.2999
+"Las Vegas-Henderson-Paradise, NV",Upper,2014,169143.1964
+"Lebanon, PA",Upper,2014,156613.7488
+"Lewiston-Auburn, ME",Upper,2014,149841.9324
+"Lincoln, NE",Upper,2014,159520.0607
+"Little Rock-North Little Rock-Conway, AR",Upper,2014,168131.8693
+"Los Angeles-Long Beach-Anaheim, CA",Upper,2014,176589.7159
+"Louisville/Jefferson County, KY-IN",Upper,2014,174134.6551
+"Lubbock, TX",Upper,2014,182012.8536
+"Lynchburg, VA",Upper,2014,162397.1184
+"Madera, CA",Upper,2014,177857.2826
+"Manchester-Nashua, NH",Upper,2014,168162.1109
+"Mansfield, OH",Upper,2014,173969.4348
+"McAllen-Edinburg-Mission, TX",Upper,2014,157754.0271
+"Medford, OR",Upper,2014,172865.8586
+"Memphis, TN-MS-AR",Upper,2014,172873.8607
+"Merced, CA",Upper,2014,165521.1318
+"Miami-Fort Lauderdale-West Palm Beach, FL",Upper,2014,179520.5883
+"Michigan City-La Porte, IN",Upper,2014,173205.0808
+"Midland, TX",Upper,2014,181282.1706
+"Milwaukee-Waukesha-West Allis, WI",Upper,2014,165988.4391
+"Minneapolis-St. Paul-Bloomington, MN-WI",Upper,2014,168651.4845
+"Mobile, AL",Upper,2014,166968.3295
+"Modesto, CA",Upper,2014,158378.8644
+"Monroe, LA",Upper,2014,189610.7369
+"Monroe, MI",Upper,2014,162219.2021
+"Montgomery, AL",Upper,2014,165691.1845
+"Morgantown, WV",Upper,2014,169409.1528
+"Muncie, IN",Upper,2014,153278.8408
+"Muskegon, MI",Upper,2014,177980.6393
+"Napa, CA",Upper,2014,174277.5147
+"Naples-Immokalee-Marco Island, FL",Upper,2014,197738.8357
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Upper,2014,169788.9916
+"New Haven-Milford, CT",Upper,2014,166959.4787
+"New Orleans-Metairie, LA",Upper,2014,176238.4906
+"New York-Newark-Jersey City, NY-NJ-PA",Upper,2014,177170.5245
+"Niles-Benton Harbor, MI",Upper,2014,164312.8532
+"North Port-Sarasota-Bradenton, FL",Upper,2014,177265.7007
+"Norwich-New London, CT",Upper,2014,164028.3292
+"Ocala, FL",Upper,2014,163781.1828
+"Ocean City, NJ",Upper,2014,170605.6016
+"Odessa, TX",Upper,2014,180109.5376
+"Ogden-Clearfield, UT",Upper,2014,165640.6779
+"Oklahoma City, OK",Upper,2014,172258.7055
+"Olympia-Tumwater, WA",Upper,2014,167596.6656
+"Omaha-Council Bluffs, NE-IA",Upper,2014,166931.5581
+"Orlando-Kissimmee-Sanford, FL",Upper,2014,173776.1552
+"Owensboro, KY",Upper,2014,168157.1919
+"Oxnard-Thousand Oaks-Ventura, CA",Upper,2014,181998.8066
+"Palm Bay-Melbourne-Titusville, FL",Upper,2014,167420.4294
+"Pensacola-Ferry Pass-Brent, FL",Upper,2014,168493.2444
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Upper,2014,170276.9969
+"Phoenix-Mesa-Scottsdale, AZ",Upper,2014,168930.3274
+"Pittsburgh, PA",Upper,2014,171917.9938
+"Portland-South Portland, ME",Upper,2014,177755.7152
+"Portland-Vancouver-Hillsboro, OR-WA",Upper,2014,171334.7084
+"Port St. Lucie, FL",Upper,2014,171758.6971
+"Prescott, AZ",Upper,2014,160144.3611
+"Providence-Warwick, RI-MA",Upper,2014,166576.886
+"Provo-Orem, UT",Upper,2014,165145.45
+"Pueblo, CO",Upper,2014,158646.8993
+"Punta Gorda, FL",Upper,2014,167950.2465
+"Racine, WI",Upper,2014,166631.0126
+"Raleigh, NC",Upper,2014,178074.8282
+"Reading, PA",Upper,2014,170953.969
+"Redding, CA",Upper,2014,167655.6246
+"Reno, NV",Upper,2014,168517.6317
+"Richmond, VA",Upper,2014,169244.0538
+"Riverside-San Bernardino-Ontario, CA",Upper,2014,163401.015
+"Rochester, NY",Upper,2014,159074.2482
+"Rockford, IL",Upper,2014,167573.4561
+"Rocky Mount, NC",Upper,2014,162442.0478
+"Sacramento--Roseville--Arden-Arcade, CA",Upper,2014,170166.3881
+"Saginaw, MI",Upper,2014,154014.7372
+"St. Louis, MO-IL",Upper,2014,170126.2046
+"Salinas, CA",Upper,2014,181838.8517
+"Salisbury, MD-DE",Upper,2014,173719.3786
+"Salt Lake City, UT",Upper,2014,167066.5022
+"San Angelo, TX",Upper,2014,181007.1036
+"San Antonio-New Braunfels, TX",Upper,2014,174125.406
+"San Diego-Carlsbad, CA",Upper,2014,172776.5021
+"San Francisco-Oakland-Hayward, CA",Upper,2014,185289.7551
+"San Jose-Sunnyvale-Santa Clara, CA",Upper,2014,187386.6451
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA",Upper,2014,174603.1748
+"Santa Cruz-Watsonville, CA",Upper,2014,193214.9441
+"Santa Fe, NM",Upper,2014,191098.8803
+"Santa Maria-Santa Barbara, CA",Upper,2014,183429.5326
+"Santa Rosa, CA",Upper,2014,172572.9342
+"Scranton--Wilkes-Barre--Hazleton, PA",Upper,2014,163781.5119
+"Seattle-Tacoma-Bellevue, WA",Upper,2014,173819.9934
+"Sheboygan, WI",Upper,2014,180130.9977
+"Shreveport-Bossier City, LA",Upper,2014,164921.4958
+"Spartanburg, SC",Upper,2014,158660.1321
+"Spokane-Spokane Valley, WA",Upper,2014,158858.885
+"Springfield, IL",Upper,2014,177999.7958
+"Springfield, MA",Upper,2014,164991.5399
+"Springfield, MO",Upper,2014,161011.2872
+"Springfield, OH",Upper,2014,171245.0921
+"State College, PA",Upper,2014,176768.8792
+"Stockton-Lodi, CA",Upper,2014,165650.6892
+"Syracuse, NY",Upper,2014,160132.9989
+"Tampa-St. Petersburg-Clearwater, FL",Upper,2014,172334.7079
+"Toledo, OH",Upper,2014,165507.0849
+"Trenton, NJ",Upper,2014,180109.5376
+"Tucson, AZ",Upper,2014,169110.8244
+"Tyler, TX",Upper,2014,169181.3016
+"Urban Honolulu, HI",Upper,2014,161045.3739
+"Utica-Rome, NY",Upper,2014,160533.4317
+"Vallejo-Fairfield, CA",Upper,2014,156863.1987
+"Virginia Beach-Norfolk-Newport News, VA-NC",Upper,2014,166543.3535
+"Visalia-Porterville, CA",Upper,2014,168494.4741
+"Waco, TX",Upper,2014,161150.648
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Upper,2014,177903.8748
+"Wausau, WI",Upper,2014,154982.8497
+"Wichita, KS",Upper,2014,167815.5275
+"Wichita Falls, TX",Upper,2014,157467.1995
+"Winston-Salem, NC",Upper,2014,161536.1159
+"Worcester, MA-CT",Upper,2014,166475.8902
+"Yakima, WA",Upper,2014,170745.3608
+"York-Hanover, PA",Upper,2014,159455.3513
+"Youngstown-Warren-Boardman, OH-PA",Upper,2014,159479.1843
+"Yuba City, CA",Upper,2014,164578.9654
+"Yuma, AZ",Upper,2014,174963.5453
