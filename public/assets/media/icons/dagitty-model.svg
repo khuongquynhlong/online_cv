@@ -1,0 +1,52 @@
+<svg width="233" height="216" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" class="path">
+   <path id="svg_2" d="m109.53,28.21l-77.14,130.51" fill="none" stroke-width="1.5" stroke="#d01c8b"/>
+   <path transform="rotate(-59.4132 32.3857 158.722)" id="svg_3" d="m31.38568,158.72211l16,5l0,-10l-16,5z" class="arrowfront" fill="white" stroke-width="1.5" stroke="#d01c8b"/>
+  </g>
+  <g id="svg_4" class="path">
+   <path id="svg_5" d="m118.81,30l-0.56,60" fill="none" stroke-width="1.5" stroke="#d01c8b"/>
+   <path transform="rotate(-89.4577 118.247 90.001)" id="svg_6" d="m117.24689,90.00101l16,5l0,-10l-16,5z" class="arrowfront" fill="white" stroke-width="1.5" stroke="#d01c8b"/>
+  </g>
+  <g id="svg_7" class="path">
+   <path id="svg_8" d="m35.78,166.78l62.13,-45.04" fill="none" stroke-width="1.5" stroke="#4dac26"/>
+   <path transform="rotate(144.062 97.9064 121.743)" id="svg_9" d="m96.90637,121.74289l16,5l0,-10l-16,5z" class="arrowfront" fill="white" stroke-width="1.5" stroke="#4dac26"/>
+  </g>
+  <g id="svg_10" class="path">
+   <path id="svg_11" d="m40,176.09l148,0.8" fill="none" stroke-width="1.5" stroke="#4dac26"/>
+   <path transform="rotate(180.308 188 176.886)" id="svg_12" d="m187.00043,176.88605l16,5l0,-10l-16,5z" class="arrowfront" fill="white" stroke-width="1.5" stroke="#4dac26"/>
+  </g>
+  <g id="svg_13" class="path">
+   <path id="svg_14" d="m133.5,119.48l59.73,45.43" fill="none" stroke-width="1.5" stroke="#d01c8b"/>
+   <path transform="rotate(217.256 193.234 164.912)" id="svg_15" d="m192.23401,164.91162l16,5l0,-10l-16,5z" class="arrowfront" fill="white" stroke-width="1.5" stroke="#d01c8b"/>
+  </g>
+  <g id="svg_16" class="path">
+   <path id="svg_17" d="m128.05,28.38l73.09,131.1" fill="none" stroke-width="1.5" stroke="#d01c8b"/>
+   <path transform="rotate(240.861 201.143 159.481)" id="svg_18" d="m200.14313,159.48083l16,5l0,-10l-16,5z" class="arrowfront" fill="white" stroke-width="1.5" stroke="#d01c8b"/>
+  </g>
+  <g id="svg_19">
+   <path id="svg_20" stroke="black" fill="#bed403" d="m20,176m20,0a20,15 0 1 1 -40,0a20,15 0 1 1 40,0" z-index="1" stroke-width="2" fill-opacity="0.7"/>
+   <rect id="svg_21" y="197" x="13.66406" height="17" width="12" fill="#ffffff" class="textbg"/>
+   <text id="svg_22" x="20" text-anchor="middle" y="211" class="nodelabel">X</text>
+   <path id="svg_23" fill="#000000" d="m16,170l11,6l-11,6l0,-12z"/>
+  </g>
+  <g id="svg_24">
+   <path id="svg_25" stroke="black" fill="#00a2e0" d="m213,177m20,0a20,15 0 1 1 -40,0a20,15 0 1 1 40,0" z-index="1" stroke-width="2" fill-opacity="0.7"/>
+   <rect id="svg_26" y="198" x="206.66406" height="17" width="12" fill="#ffffff" class="textbg"/>
+   <text id="svg_27" x="213" text-anchor="middle" y="212" class="nodelabel">Y</text>
+   <path id="svg_28" fill="#000000" d="m211,171l4,0l0,12l-4,0l0,-12z"/>
+  </g>
+  <g id="svg_29">
+   <path id="svg_30" stroke="black" fill="#ff7777" d="m119,15m20,0a20,15 0 1 1 -40,0a20,15 0 1 1 40,0" z-index="1" stroke-width="2" fill-opacity="0.7"/>
+   <rect id="svg_31" y="36" x="114.10938" height="17" width="10" fill="#ffffff" class="textbg"/>
+   <text id="svg_32" x="119" text-anchor="middle" y="50" class="nodelabel">Z</text>
+  </g>
+  <g id="svg_33">
+   <path id="svg_34" stroke="black" fill="#00a2e0" d="m118,110m20,0a20,15 0 1 1 -40,0a20,15 0 1 1 40,0" z-index="1" stroke-width="2" fill-opacity="0.7"/>
+   <rect id="svg_35" y="131" x="115.77344" height="17" width="4.45313" fill="#ffffff" class="textbg"/>
+   <text id="svg_36" x="118" text-anchor="middle" y="145" class="nodelabel">I</text>
+  </g>
+ </g>
+</svg>
